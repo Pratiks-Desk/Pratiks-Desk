@@ -1,6 +1,6 @@
 - 👋 Hi, you are on @Pratiks-Desk
 - 👀 Here's a summary of my coding background.
-- 🌱 On a journey of learning.
+- 🌱 Always On a journey of learning.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
